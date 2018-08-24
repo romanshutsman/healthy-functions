@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "learn-firebase-316b8",
+    "prod": "hls-prod-54695",
+    "test": "hls-test-156c5",
+    "hls-stag": "hls-staging-5020c",
+    "dtg": "dtggroup-b2800"
+  }
+}
